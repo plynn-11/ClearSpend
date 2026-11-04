@@ -1,6 +1,6 @@
 # ClearSpend
 
-A mobile-friendly purchase request prototype for small businesses with multiple locations.
+A purchase request and budget tracking app for businesses with multiple locations. Manage approvals, track spending, and see available budgets in one place.
 
 ## Preview locally
 
